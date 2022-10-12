@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-This project was created on Tuesday, 12 October 2022
+Tuesday, 12 October 2022
 
 ### Project Title
 GitHub repository for bikeshare project
