@@ -51,13 +51,10 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
-    # display the most common month
+    # shows popular month,weekday,and start hour
 
 
-    # display the most common day of week
 
-
-    # display the most common start hour
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -70,13 +67,10 @@ def station_stats(df):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
-    # display most commonly used start station
+    # display most commonly used start station, end station, and most frequent combination of start station and end station trip
 
 
-    # display most commonly used end station
-
-
-    # display most frequent combination of start station and end station trip
+    
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -89,10 +83,10 @@ def trip_duration_stats(df):
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
 
-    # display total travel time
+    # display total and mean travel times
 
 
-    # display mean travel time
+    
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
@@ -105,13 +99,10 @@ def user_stats(df):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
-    # Display counts of user types
+    # Display counts of user types, gender, earliest, most recent, and most common year of birth
 
 
-    # Display counts of gender
-
-
-    # Display earliest, most recent, and most common year of birth
+    
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
