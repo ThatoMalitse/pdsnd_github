@@ -54,7 +54,7 @@ def time_stats(df):
     start_time = time.time()
 
     # display the most common month
-
+    month_data  = {'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6, 'all': all}
 
     # display the most common day of week
 
